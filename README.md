@@ -19,7 +19,7 @@
   5 set up path for environment variable for java and apache tomcat
   
   
-  6 import database sql file intop my sql server using phpmyadmin interface 
+  6 import database sql file into mysql server using phpmyadmin interface 
   
   
   7 import java web application
