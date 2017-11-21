@@ -5,7 +5,7 @@
  Steps :
   
   
-  1 install java 7 or later
+  1 install java 
   
   2 install xampp or wamp server
   
